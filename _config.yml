@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Florian Ingels"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. in Mathematics"
   location         : "Grenoble, France"
-  employer         :
+  employer         : "https://www.aniah.fr/"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=cnqhJj0AAAAJ&hl=fr"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=cnqhJj0AAAAJ"
+  email            : 
   researchgate     :  "https://www.researchgate.net/profile/Florian-Ingels"
   uri              :
   bitbucket        :
