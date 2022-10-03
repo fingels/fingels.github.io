@@ -1,5 +1,5 @@
 ---
-title: Treex: a Python package for manipulating rooted trees
+title: Treex a Python package for manipulating rooted trees
 collection: publications
 permalink: /publication/2019-treex
 date: 2019-06-24
