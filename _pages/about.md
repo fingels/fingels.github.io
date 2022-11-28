@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome ! I am a French PhD, specialized in Graph Algorithms, with a particular interest in trees, enumeration and compression methods. Apart from that, I am also interested in combinatorics and optimization.
+Welcome ! I am a French PhD, specialized in Graph Algorithms, with a particular interest in trees, enumeration and compression methods. Apart from that, I am also interested in combinatorics, optimization and machine learning.
 
 I defended my thesis entitled ["On the Similarities of Trees: the interest of Enumeration and Compression Methods"](https://www.theses.fr/s238309) earlier this year, in Septembter 2022. 
 
