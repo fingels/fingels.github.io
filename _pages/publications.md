@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=cnqhJj0AAAAJ">my Google Scholar profile</a>.</u>
 
-# Preprints
+## Preprints
 
 - *Revisiting Tree Isomorphism: AHU Algorithm with Primes Numbers*<br>
   Florian Ingels<br>
@@ -17,7 +17,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
   Romain Azaïs, Florian Ingels<br>
   [arxiv](https://arxiv.org/abs/2307.13068) / [hal](https://hal.science/hal-04171279)
 
-# Papers
+## Papers
 
 - *Enumeration of Irredundant Forests*<br>
   Florian Ingels, Romain Azaïs<br>
@@ -39,7 +39,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
   Journal of Open Source Software, 2019<br>
   [journal](https://joss.theoj.org/papers/10.21105/joss.01351) / [hal](https://hal.science/hal-02164364)
 
-# Thesis
+## Thesis
 
 - *On the similarities of trees: the interest of enumeration and compression methods*<br>
   Florian Ingels<br>
