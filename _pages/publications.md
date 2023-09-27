@@ -38,3 +38,10 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
   Romain Azaïs, Guillaume Cerutti, Didier Gemmerlé, Florian Ingels<br>
   Journal of Open Source Software, 2019<br>
   [journal](https://joss.theoj.org/papers/10.21105/joss.01351) / [hal](https://hal.science/hal-02164364)
+
+# These
+
+- *On the similarities of trees: the interest of enumeration and compression methods*<br>
+  Florian Ingels<br>
+  Ecole Normale Supérieure de Lyon, 2022<br>
+  [theses.fr](https://www.theses.fr/2022ENSL0010) / [hal](https://theses.hal.science/tel-03908078/)
