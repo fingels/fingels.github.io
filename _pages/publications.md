@@ -9,10 +9,6 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## Preprints
 
-- *Revisiting Tree Isomorphism: AHU Algorithm with Primes Numbers*<br>
-  Florian Ingels<br>
-  [arxiv](https://arxiv.org/abs/2309.14441) / [hal](https://hal.science/hal-04232137)
-
 - *Detection of common subtrees with identical label distribution*<br>
   Romain Azaïs, Florian Ingels<br>
   [arxiv](https://arxiv.org/abs/2307.13068) / [hal](https://hal.science/hal-04171279)
@@ -45,3 +41,9 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
   Florian Ingels<br>
   Ecole Normale Supérieure de Lyon, 2022<br>
   [theses.fr](https://www.theses.fr/2022ENSL0010) / [hal](https://theses.hal.science/tel-03908078/)
+
+## Unpublished notes
+
+- *Revisiting Tree Isomorphism: AHU Algorithm with Primes Numbers*<br>
+  Florian Ingels<br>
+  [arxiv](https://arxiv.org/abs/2309.14441) / [hal](https://hal.science/hal-04232137)
