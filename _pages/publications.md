@@ -7,18 +7,17 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=cnqhJj0AAAAJ">my Google Scholar profile</a>.</u>
 
-## Preprints
+## Papers
 
 - *Detection of common subtrees with identical label distribution*<br>
   Romain Azaïs, Florian Ingels<br>
-  [arxiv](https://arxiv.org/abs/2307.13068) / [hal](https://hal.science/hal-04171279)
-
-## Papers
+  Theoretical Computer Science, 2023<br>
+  [journal](https://www.sciencedirect.com/science/article/abs/pii/S0304397523006795) / [arxiv](https://arxiv.org/abs/2307.13068) / [hal](https://hal.science/hal-04171279)
 
 - *Enumeration of Irredundant Forests*<br>
   Florian Ingels, Romain Azaïs<br>
   Theoretical Computer Science, 2022<br>
-  [journal](https://www.sciencedirect.com/science/article/abs/pii/S0304397522002584?via%3Dihub) / [arxiv](https://arxiv.org/abs/2003.08144) / [hal](https://hal.science/hal-02511901)
+  [journal](https://www.sciencedirect.com/science/article/abs/pii/S0304397522002584) / [arxiv](https://arxiv.org/abs/2003.08144) / [hal](https://hal.science/hal-02511901)
 
 - *Isomorphic Unordered Labeled Trees up to Substitution Ciphering*<br>
   Florian Ingels, Romain Azaïs<br>
