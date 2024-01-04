@@ -11,7 +11,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 - *Detection of common subtrees with identical label distribution*<br>
   Romain Azaïs, Florian Ingels<br>
-  Theoretical Computer Science, 2023<br>
+  Theoretical Computer Science, 2024<br>
   [journal](https://www.sciencedirect.com/science/article/abs/pii/S0304397523006795) / [arxiv](https://arxiv.org/abs/2307.13068) / [hal](https://hal.science/hal-04171279)
 
 - *Enumeration of Irredundant Forests*<br>
