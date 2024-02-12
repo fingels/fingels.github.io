@@ -43,6 +43,6 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## Unpublished notes
 
-- *Revisiting Tree Isomorphism: AHU Algorithm with Primes Numbers*<br>
+- *Revisiting Tree Isomorphism: An Algorithmic Bric-à-Brac*<br>
   Florian Ingels<br>
   [arxiv](https://arxiv.org/abs/2309.14441) / [hal](https://hal.science/hal-04232137)
