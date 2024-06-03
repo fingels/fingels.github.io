@@ -7,6 +7,12 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=cnqhJj0AAAAJ">my Google Scholar profile</a>.</u>
 
+## Preprints
+
+- *Constrained enumeration of k-mers from a collection of references with metadata*<br>
+  Florian Ingels, Igor Martayan, Mikaël Salson, Camille Marchet<br>
+  [biorxiv](https://www.biorxiv.org/content/10.1101/2024.05.26.595967)
+
 ## Papers
 
 - *Detection of common subtrees with identical label distribution*<br>
