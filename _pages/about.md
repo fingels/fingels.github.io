@@ -17,6 +17,7 @@ My work focus mainly on discovering patterns in structured data (e.g. strings, g
 - machine learning (notably kernel methods)
 - compression methods
 
+
 More generally, I have strong interests in graph theory, combinatorics and optimization.
 
 ## Affiliations
