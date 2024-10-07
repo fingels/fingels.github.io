@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Currently postdoctoral fellow in Lille. Feel free to contact me at florian[dot]ingels[at]univ-lille[dot]fr
+Currently postdoctoral fellow in Lille. 
+
+Feel free to contact me at florian[dot]ingels[at]univ-lille[dot]fr
 
 ## Research interests
 
