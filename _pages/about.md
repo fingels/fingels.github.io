@@ -15,8 +15,9 @@ I defended my thesis entitled ["On the Similarities of Trees: the interest of En
 
 ### Affiliations
 
-Sep. 2023 -- current
-: Postodoctoral researcher, [Bonsai team](https://www.cristal.univ-lille.fr/bonsai/), [Cristal laboratory](https://www.cristal.univ-lille.fr/), Lille. I am working with [Mikaël Salson](https://mikael-salson.univ-lille.fr/) and [Camille Marchet](https://kamimrcht.github.io/webpage/).
+- *Sep. 2023 -- current*<br>
+   Postodoctoral researcher, [Bonsai team](https://www.cristal.univ-lille.fr/bonsai/), [Cristal laboratory](https://www.cristal.univ-lille.fr/), Lille.<br>
+   I am working with [Mikaël Salson](https://mikael-salson.univ-lille.fr/) and [Camille Marchet](https://kamimrcht.github.io/webpage/).
 
 ### Contact
 florian[dot]ingels[at]univ-lille[dot]fr
