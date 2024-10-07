@@ -32,7 +32,7 @@ More generally, I have strong interests in graph theory, combinatorics and optim
   **Head of Algorithmic Research**, [Aniah](https://aniah.fr/), Grenoble.
 
 - *Sep. 2019 - Sep. 2022*<br>
-  **PhD candidate**, [Inria team Mosaic](https://team.inria.fr/mosaic/), [RDP laboratory](http://www.ens-lyon.fr/RDP/), [École Normale Supérieure de Lyon](http://www.ens-lyon.fr/), Lyon.<br>
+  **Ph.D. candidate**, [Inria team Mosaic](https://team.inria.fr/mosaic/), [RDP laboratory](http://www.ens-lyon.fr/RDP/), [École Normale Supérieure de Lyon](http://www.ens-lyon.fr/), Lyon.<br>
    My work was supervised by [Christophe Godin](https://team.inria.fr/mosaic/welcome/team-members/christophe-godin) and [Romain Azaïs](http://perso.ens-lyon.fr/romain.azais/).<br>
    _Manuscript_: ["On the Similarities of Trees: the interest of Enumeration and Compression Methods"](https://www.theses.fr/2022ENSL0010).
 
