@@ -8,7 +8,7 @@ author_profile: true
 - *Imbalance in minimizer-based partitions of k-mers: a theoretical approach*<br>
   Joint work with Camille Marchet and Mikaël Salson<br>
   Journées annuelles du groupe de travail Séquences en Bioinformatique (SeqBIM)<br>
-  Rennes, November 28-29, 2024<br>
+  Rennes, November 28, 2024<br>
   [hal](https://hal.science/hal-04790360)
 
 - *Isomorphic Unordered Labeled Trees up to Substitution Ciphering*<br>
