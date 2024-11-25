@@ -36,3 +36,7 @@ More generally, I have strong interests in graph theory, combinatorics and optim
    My work was supervised by [Christophe Godin](https://team.inria.fr/mosaic/welcome/team-members/christophe-godin) and [Romain Azaïs](http://perso.ens-lyon.fr/romain.azais/).<br>
    _Manuscript_: ["On the Similarities of Trees: the interest of Enumeration and Compression Methods"](https://www.theses.fr/2022ENSL0010).
 
+## Students
+
+- **Anaïs Denis**, M1 internship<br>
+  Summer 2024, co-supervised with [Bastien Cazaux](https://scholar.google.com/citations?user=pI_i5WYAAAAJ&hl=fr)
