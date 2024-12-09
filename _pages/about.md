@@ -14,13 +14,13 @@ Feel free to contact me at florian[dot]ingels[at]univ-lille[dot]fr
 
 ## Research interests
 
-My work focus mainly on discovering patterns in structured data (e.g. strings, graphs) of predominantly biological origin. In particular, I am interested in the following topics:
-- enumeration algorithms
-- machine learning (notably kernel methods)
-- compression methods
+My research interests concern the development of theoretical and practical methods for investigating substructures (patterns) in structured data (sequences, trees, graphs) of predominantly biological origin. In particular, I am interested in the following topics:
+ - data structures and algorithms
+ - enumeration (both in terms of _listing_ and _counting_)
+ - lossless compression
+ - machine learning (mainly _frequent pattern mining_ and _kernel methods_)
 
-
-More generally, I have strong interests in graph theory, combinatorics and optimization.
+More generally, I have strong interests in graph theory, algorithms, combinatorics machine learning and optimization.
 
 ## Affiliations
 
