@@ -9,7 +9,7 @@ author_profile: true
   Joint work with Camille Marchet and Mikaël Salson<br>
   Journées annuelles du groupe de travail Séquences en Bioinformatique (SeqBIM)<br>
   Rennes, November 28, 2024<br>
-  [hal](https://hal.science/hal-04790360)
+  [hal](https://hal.science/hal-04790360) / [slides](https://seqbim.cnrs.fr/wp-content/uploads/2024/12/28nov_11h10_Florian_Ingels.pdf)
 
 - *Isomorphic Unordered Labeled Trees up to Substitution Ciphering*<br>
   Joint work with Romain Azaïs<br>
