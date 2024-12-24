@@ -9,6 +9,10 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## Preprints
 
+- *On the number of k-mers admitting a given lexicographical minimizer*<br>
+  Florian Ingels, Camille Marchet,  Mikaël Salson<br>
+  [arxiv](https://arxiv.org/abs/2412.17492)
+
 - *Constrained enumeration of k-mers from a collection of references with metadata*<br>
   Florian Ingels, Igor Martayan, Mikaël Salson, Camille Marchet<br>
   [biorxiv](https://www.biorxiv.org/content/10.1101/2024.05.26.595967)
