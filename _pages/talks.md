@@ -7,9 +7,11 @@ author_profile: true
 
 - *Imbalance in minimizer-based partitions of k-mers: a theoretical approach*<br>
   Joint work with Camille Marchet and Mikaël Salson<br>
-  Journées annuelles du groupe de travail Séquences en Bioinformatique (SeqBIM)<br>
-  Rennes, November 28, 2024<br>
-  [hal](https://hal.science/hal-04790360) / [slides](https://seqbim.cnrs.fr/wp-content/uploads/2024/12/28nov_11h10_Florian_Ingels.pdf)
+  - Journées annuelles du groupe de travail Séquences en Bioinformatique (SeqBIM)<br>
+    Rennes, November 28, 2024<br>
+    [hal](https://hal.science/hal-04790360) / [slides](https://seqbim.cnrs.fr/wp-content/uploads/2024/12/28nov_11h10_Florian_Ingels.pdf)<br>
+  - (*upcoming*) Sequences in London<br>
+    London, February 6, 2025<br>
 
 - *Isomorphic Unordered Labeled Trees up to Substitution Ciphering*<br>
   Joint work with Romain Azaïs<br>
