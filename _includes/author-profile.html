@@ -67,6 +67,9 @@
       {% if author.github %}
              <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
       {% endif %}
+            {% if author.bluesky %}
+        <li><a href="https://bsky.app/profile/{{ author.bluesky }}"><i class="fab fa-fw fa-bluesky icon-pad-right" aria-hidden="true"></i>Bluesky</a></li>
+      {% endif %}
       {% if author.gitlab %}
         <li><a href="https://gitlab.inria.fr/{{ author.github }}"><i class="fab fa-fw fa-gitlab" aria-hidden="true"></i> GitLab</a></li>
       {% endif %}
