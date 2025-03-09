@@ -12,8 +12,10 @@ author_profile: true
     [hal](https://hal.science/hal-04790360) / [slides](https://seqbim.cnrs.fr/wp-content/uploads/2024/12/28nov_11h10_Florian_Ingels.pdf)<br>
   - Sequences in London<br>
     London, February 6, 2025<br>
-  - (*upcoming*) Data Structures in Bioinformatics (DSB)<br>
+    [program](https://sites.google.com/view/sequencesworkshop/schedule?authuser=0#h.8gnvjz21qh83)<br>
+  - Data Structures in Bioinformatics (DSB)<br>
     Pisa, March 6, 2025<br>
+    [program](https://dsb-meeting.github.io/DSB2025/)<br>
 
 - *Isomorphic Unordered Labeled Trees up to Substitution Ciphering*<br>
   Joint work with Romain Azaïs<br>
