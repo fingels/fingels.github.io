@@ -38,5 +38,8 @@ More generally, I have strong interests in graph theory, algorithms, combinatori
 
 ## Students
 
+- **Seyed Younes Aghamiri**, M1 internship<br>
+  Summer 2025, co-supervised with [Camille Marchet](https://kamimrcht.github.io/webpage/)
+
 - **Anaïs Denis**, M1 internship<br>
   Summer 2024, co-supervised with [Bastien Cazaux](https://scholar.google.com/citations?user=pI_i5WYAAAAJ&hl=fr)
