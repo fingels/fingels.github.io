@@ -9,6 +9,10 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## Preprints
 
+- *Decomposing Words for Enhanced Compression: Exploring the Number of Runs in the Extended Burrows-Wheeler Transform*<br>
+  Florian Ingels, Anaïs Denis,  Bastien Cazaux<br>
+  [arxiv](https://arxiv.org/abs/2506.04926)
+
 - *On the number of k-mers admitting a given lexicographical minimizer*<br>
   Florian Ingels, Camille Marchet,  Mikaël Salson<br>
   [arxiv](https://arxiv.org/abs/2412.17492)
