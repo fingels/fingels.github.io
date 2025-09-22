@@ -26,7 +26,7 @@ More generally, I have strong interests in graph theory, algorithms, combinatori
 
 - *Sep. 2023 - current*<br>
    **Postodoctoral researcher**, [Bonsai team](https://www.cristal.univ-lille.fr/bonsai/), [Cristal laboratory](https://www.cristal.univ-lille.fr/), Lille.<br>
-   I am working with [Mikaël Salson](https://mikael-salson.univ-lille.fr/) and [Camille Marchet](https://kamimrcht.github.io/webpage/).
+   I am principally working with [Mikaël Salson](https://mikael-salson.univ-lille.fr/), [Camille Marchet](https://kamimrcht.github.io/webpage/) and [Antoine Limasset](https://malfoy.github.io/).
 
 - *Sep. 2022 - Jan. 2023*<br>
   **Head of Algorithmic Research**, [Aniah](https://aniah.fr/), Grenoble.
