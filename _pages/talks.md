@@ -5,6 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
+- *Multiminimizers: trading time for space in sampling schemes*<br>
+  Joint work with Lucas Robidou, Igor Martayan, and Antoine Limasset<br>
+  Journées annuelles du groupe de travail Séquences en Bioinformatique (SeqBIM)<br>
+  Nantes, November 25, 2025<br>
+  [program](https://seqbim.cnrs.fr/seqbim-2025/#programme)
+
 - *Imbalance in minimizer-based partitions of k-mers: a theoretical approach*<br>
   Joint work with Camille Marchet and Mikaël Salson<br>
     - Combinatorics and Life Sciences<br>
