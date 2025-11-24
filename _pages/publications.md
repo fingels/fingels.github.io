@@ -9,6 +9,14 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## Preprints
 
+- *Compressed inverted indexes for scalable sequence similarity*<br>
+  Florian Ingels, Léa Vandamme, Mathilde Girard, Clément Agret, Bastien Cazaux, Antoine Limasset<br>
+  [biorxiv](https://www.biorxiv.org/content/10.1101/2025.11.21.689685v1)
+
+- *Minimizer Density revisited: Models and Multiminimizers*<br>
+   Florian Ingels, Lucas Robidou, Igor Martayan, Camille Marchet, Antoine Limasset<br>
+   [biorxiv](https://www.biorxiv.org/content/10.1101/2025.11.21.689688v1)
+
 - *Decomposing Words for Enhanced Compression: Exploring the Number of Runs in the Extended Burrows-Wheeler Transform*<br>
   Florian Ingels, Anaïs Denis,  Bastien Cazaux<br>
   [arxiv](https://arxiv.org/abs/2506.04926)
