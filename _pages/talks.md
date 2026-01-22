@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 - *Multiminimizers: trading time for space in sampling schemes*<br>
-  Joint work with Lucas Robidou, Igor Martayan, and Antoine Limasset<br>
+  Joint work with Lucas Robidou, Igor Martayan, Camille Marchet and Antoine Limasset<br>
   Journées annuelles du groupe de travail Séquences en Bioinformatique (SeqBIM)<br>
   Nantes, November 25, 2025<br>
   [program](https://seqbim.cnrs.fr/seqbim-2025/#programme)
