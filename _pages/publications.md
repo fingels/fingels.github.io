@@ -9,6 +9,10 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## Preprints
 
+- *Vigemers: on the number of  k-mers sharing the same XOR-based minimizer*<br>
+  Florian Ingels, Antoine Limasset, Camille Marchet, Mikaël Salson<br>
+  [arxiv](https://arxiv.org/abs/2602.03337)
+
 - *Compressed inverted indexes for scalable sequence similarity*<br>
   Florian Ingels, Léa Vandamme, Mathilde Girard, Clément Agret, Bastien Cazaux, Antoine Limasset<br>
   [biorxiv](https://www.biorxiv.org/content/10.1101/2025.11.21.689685v1)
