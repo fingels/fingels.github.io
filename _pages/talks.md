@@ -5,6 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
+- *Improving minimizers-based k-mer partitioning*<br>
+  Joint work with Antoine Limasset<br>
+  Data Structures in Bioinformatics (DSB)<br>
+  Venice, February 19, 2026<br>
+  [program](https://dsb-meeting.github.io/DSB2026/)
+
 - *Multiminimizers: trading time for space in sampling schemes*<br>
   Joint work with Lucas Robidou, Igor Martayan, Camille Marchet and Antoine Limasset<br>
   Journées annuelles du groupe de travail Séquences en Bioinformatique (SeqBIM)<br>
